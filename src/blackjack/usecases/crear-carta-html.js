@@ -9,7 +9,7 @@ export const crearCartaHTML = (carta) => {
 
     // <img class="carta" src="assets/cartas/10C.png" alt="">
     const imgCarta = document.createElement('img');
-    imgCarta.src = `public/assets/cartas/${carta}.png`
+    imgCarta.src = `assets/cartas/${carta}.png`
     imgCarta.classList.add('carta');
     return imgCarta;
 }
