@@ -1,4 +1,4 @@
-#Blackjack with vanilla Javascript and Vite
+# Blackjack with vanilla Javascript and Vite
 
 pasos para ejecutar el proyecto
 
